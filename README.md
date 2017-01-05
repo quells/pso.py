@@ -6,7 +6,7 @@ A generic particle swarm optimization (PSO) Python class.
 
 PSO is a minimizing algorithm, so ensure that your fitness function is written accordingly. A common technique to maximize a function with PSO is to return a negative value.
 
-Hard parameter bounds and constraints are implemented. Only a single fitness function is implemented.
+Hard parameter bounds and constraints are implemented.
 
 ### Example Walkthrough
 
